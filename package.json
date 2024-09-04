@@ -1,0 +1,13 @@
+{
+  "name": "days-of-30-projects",
+  "version": "1.0.0",
+  "description": "30 Days, 30 Projects Challenge A journey through 30 projects built with Next.js, HTML, CSS, and TypeScript. Each day features a new challenge to sharpen my web development skills and master these technologies.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "next dev",
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
